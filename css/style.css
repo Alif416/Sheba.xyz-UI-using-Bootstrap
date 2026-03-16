@@ -1,0 +1,25 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.custom-navbar{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+
+.hero-container{
+    background-image: url(/images/hero-cover.jpg);
+    height: 500px;
+    width: auto;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.motto{
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 64px;
+}
+
